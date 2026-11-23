@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi, I'm Rohith D S
 
-<!--
-**rohithds-dev/rohithds-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science & Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering student passionate about programming, technology, and problem-solving.
+
+I'm currently building a strong foundation in programming and exploring software development through continuous learning and hands-on practice.
+
+🚀 Technologies & Skills
+
+- ☕ Java – Learning and strengthening fundamentals
+- 🐍 Python – Basic programming
+- 💻 C – Programming fundamentals
+- 🧠 Data Structures & Algorithms – Learning
+- 🔧 Git & GitHub – Exploring version control
+
+🎯 Current Focus
+
+- Strengthening Java programming skills.
+- Improving problem-solving abilities.
+- Learning Data Structures and Algorithms.
+- Exploring software development.
+- Participating in hackathons and coding challenges.
+
+🌱 My Goals
+
+- Build real-world projects.
+- Become a skilled software developer.
+- Collaborate with talented developers.
+- Learn new technologies and tools.
+- Contribute to meaningful projects.
+
+🏆 Experience & Activities
+
+- 🚀 First-time Hackathon Participant
+- 💡 Exploring innovative ideas and solutions.
+- 🤝 Interested in teamwork and collaborative development.
+
+🤝 Let's Connect
+
+I'm always excited to learn, share ideas, and collaborate with other developers.
+
+💬 My Motto
+
+"Learn continuously. Build consistently. Improve every day." 🚀
